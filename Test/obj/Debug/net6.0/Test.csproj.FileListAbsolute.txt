@@ -1,0 +1,15 @@
+/home/xxxzh/Desktop/code/Test/obj/Debug/net6.0/Test.csproj.AssemblyReference.cache
+/home/xxxzh/Desktop/code/Test/obj/Debug/net6.0/Test.GeneratedMSBuildEditorConfig.editorconfig
+/home/xxxzh/Desktop/code/Test/obj/Debug/net6.0/Test.AssemblyInfoInputs.cache
+/home/xxxzh/Desktop/code/Test/obj/Debug/net6.0/Test.AssemblyInfo.cs
+/home/xxxzh/Desktop/code/Test/obj/Debug/net6.0/Test.csproj.CoreCompileInputs.cache
+/home/xxxzh/Desktop/code/Test/bin/Debug/net6.0/Test
+/home/xxxzh/Desktop/code/Test/bin/Debug/net6.0/Test.deps.json
+/home/xxxzh/Desktop/code/Test/bin/Debug/net6.0/Test.runtimeconfig.json
+/home/xxxzh/Desktop/code/Test/bin/Debug/net6.0/Test.dll
+/home/xxxzh/Desktop/code/Test/bin/Debug/net6.0/ref/Test.dll
+/home/xxxzh/Desktop/code/Test/bin/Debug/net6.0/Test.pdb
+/home/xxxzh/Desktop/code/Test/obj/Debug/net6.0/Test.dll
+/home/xxxzh/Desktop/code/Test/obj/Debug/net6.0/ref/Test.dll
+/home/xxxzh/Desktop/code/Test/obj/Debug/net6.0/Test.pdb
+/home/xxxzh/Desktop/code/Test/obj/Debug/net6.0/Test.genruntimeconfig.cache
