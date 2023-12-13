@@ -1,0 +1,30 @@
+C:\Users\xinman\RiderProjects\UnitySocket\UnitySocket\bin\Debug\net6.0\UnitySocket.exe
+C:\Users\xinman\RiderProjects\UnitySocket\UnitySocket\bin\Debug\net6.0\UnitySocket.deps.json
+C:\Users\xinman\RiderProjects\UnitySocket\UnitySocket\bin\Debug\net6.0\UnitySocket.runtimeconfig.json
+C:\Users\xinman\RiderProjects\UnitySocket\UnitySocket\bin\Debug\net6.0\UnitySocket.dll
+C:\Users\xinman\RiderProjects\UnitySocket\UnitySocket\bin\Debug\net6.0\UnitySocket.pdb
+C:\Users\xinman\RiderProjects\UnitySocket\UnitySocket\obj\Debug\net6.0\UnitySocket.csproj.AssemblyReference.cache
+C:\Users\xinman\RiderProjects\UnitySocket\UnitySocket\obj\Debug\net6.0\UnitySocket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xinman\RiderProjects\UnitySocket\UnitySocket\obj\Debug\net6.0\UnitySocket.AssemblyInfoInputs.cache
+C:\Users\xinman\RiderProjects\UnitySocket\UnitySocket\obj\Debug\net6.0\UnitySocket.AssemblyInfo.cs
+C:\Users\xinman\RiderProjects\UnitySocket\UnitySocket\obj\Debug\net6.0\UnitySocket.csproj.CoreCompileInputs.cache
+C:\Users\xinman\RiderProjects\UnitySocket\UnitySocket\obj\Debug\net6.0\UnitySocket.dll
+C:\Users\xinman\RiderProjects\UnitySocket\UnitySocket\obj\Debug\net6.0\refint\UnitySocket.dll
+C:\Users\xinman\RiderProjects\UnitySocket\UnitySocket\obj\Debug\net6.0\UnitySocket.pdb
+C:\Users\xinman\RiderProjects\UnitySocket\UnitySocket\obj\Debug\net6.0\UnitySocket.genruntimeconfig.cache
+C:\Users\xinman\RiderProjects\UnitySocket\UnitySocket\obj\Debug\net6.0\ref\UnitySocket.dll
+F:\unity and rider project\rider job\UnitySocket\UnitySocket\bin\Debug\net6.0\UnitySocket.exe
+F:\unity and rider project\rider job\UnitySocket\UnitySocket\bin\Debug\net6.0\UnitySocket.deps.json
+F:\unity and rider project\rider job\UnitySocket\UnitySocket\bin\Debug\net6.0\UnitySocket.runtimeconfig.json
+F:\unity and rider project\rider job\UnitySocket\UnitySocket\bin\Debug\net6.0\UnitySocket.dll
+F:\unity and rider project\rider job\UnitySocket\UnitySocket\bin\Debug\net6.0\UnitySocket.pdb
+F:\unity and rider project\rider job\UnitySocket\UnitySocket\obj\Debug\net6.0\UnitySocket.csproj.AssemblyReference.cache
+F:\unity and rider project\rider job\UnitySocket\UnitySocket\obj\Debug\net6.0\UnitySocket.GeneratedMSBuildEditorConfig.editorconfig
+F:\unity and rider project\rider job\UnitySocket\UnitySocket\obj\Debug\net6.0\UnitySocket.AssemblyInfoInputs.cache
+F:\unity and rider project\rider job\UnitySocket\UnitySocket\obj\Debug\net6.0\UnitySocket.AssemblyInfo.cs
+F:\unity and rider project\rider job\UnitySocket\UnitySocket\obj\Debug\net6.0\UnitySocket.csproj.CoreCompileInputs.cache
+F:\unity and rider project\rider job\UnitySocket\UnitySocket\obj\Debug\net6.0\UnitySocket.dll
+F:\unity and rider project\rider job\UnitySocket\UnitySocket\obj\Debug\net6.0\refint\UnitySocket.dll
+F:\unity and rider project\rider job\UnitySocket\UnitySocket\obj\Debug\net6.0\UnitySocket.pdb
+F:\unity and rider project\rider job\UnitySocket\UnitySocket\obj\Debug\net6.0\UnitySocket.genruntimeconfig.cache
+F:\unity and rider project\rider job\UnitySocket\UnitySocket\obj\Debug\net6.0\ref\UnitySocket.dll
